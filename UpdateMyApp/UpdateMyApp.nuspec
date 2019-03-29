@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>UpdateMyAppStandard</id>
+    <version>1.3</version>
+    <title>Update My App (.NET Standard)</title>
+    <authors>Marcel Garbarczyk</authors>
+    <owners>Marcel Garbarczyk</owners>
+    <license type="expression">LGPL-2.1 OR MIT</license>
+    <projectUrl>https://github.com/m4rcelpl/UpdateMyApp</projectUrl>
+    <iconUrl>https://github.com/m4rcelpl/UpdateMyApp/raw/master/logo64na64.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+Lightweight library with updates support for your app.
+
+Key options
+
+* Less than 20 KB.
+* Async.
+* You can define extra data in config file.
+* Support download progress (byte and percent).
+* .NET Standard 2
+	</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>DotNET C# update</tags>	
+  </metadata>
+</package>
