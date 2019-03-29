@@ -6,8 +6,8 @@
     <title>Update My App (.NET Standard)</title>
     <authors>Marcel Garbarczyk</authors>
     <owners>Marcel Garbarczyk</owners>
-    <license type="expression">LGPL-2.1 OR MIT</license>
-    <projectUrl>https://github.com/m4rcelpl/UpdateMyApp</projectUrl>
+    <licenseUrl>https://github.com/m4rcelpl/UpdateMyApp/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/m4rcelpl/UpdateMyApp-Net-Standard</projectUrl>
     <iconUrl>https://github.com/m4rcelpl/UpdateMyApp/raw/master/logo64na64.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>
